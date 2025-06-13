@@ -1,4 +1,4 @@
-import Counter from './componentes/Counter'
+import ToggleButton from './componentes/ToggleButton'
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <Counter />
+    <ToggleButton />
     </>
   )
 }
